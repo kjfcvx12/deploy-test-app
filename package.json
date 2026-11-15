@@ -1,0 +1,9 @@
+{
+  "name": "deploy-test-app",
+  "version": "1.0.0",
+  "description": "Deploy Wizard 배포 테스트용 최소 Node.js 앱",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
